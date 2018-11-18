@@ -6,6 +6,27 @@ Using arxiv API to analysis neural network paper in astro-ph
 - Try to find the common topics in astro that used neural network.
 - Basic scraping function is adapted from TIMHEAD, http://betatim.github.io/posts/analysing-the-arxiv/, with some modifications.
 
+## Basic Information
+
+- Number of total astro-ph papers from arxiv API 2010 - 2018: **209970**
+- The ratio of neural net or machine learning papers in astro-ph: **0.00218**
+- How many of them are about galaxy: **0.249**
+
+## Most Mentioned Categories in Astro-ph (limited to neural net and machine learning related papers)
+
+![](images/category.png)
+
+## N-Grams in Astro-ph (limited to neural net and machine learning related papers)
+
+- 1 grams
+![](images/1grams.png)
+
+- 2 grams
+![](images/2grams.png)
+
+- 3 grams
+![](images/3grams.png)
+
 ## Topic Modeling on Astro-ph's Abstracts 
 
 A naive with maximum 10 topics, 
