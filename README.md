@@ -12,6 +12,10 @@ Using arxiv API to analysis neural network paper in astro-ph
 - The ratio of neural net or machine learning papers in astro-ph: **0.00258**
 - How many of them are about galaxy: **0.224**
 
+## The Growing Trend of Neural Net and Machine Learning Papers in Astro-ph
+
+![](images/time_line.png)
+
 ## Most Mentioned Categories in Astro-ph (limited to neural net and machine learning related papers)
 
 ![](images/category.png)
