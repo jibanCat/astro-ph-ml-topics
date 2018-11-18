@@ -8,9 +8,9 @@ Using arxiv API to analysis neural network paper in astro-ph
 
 ## Basic Information
 
-- Number of total astro-ph papers from arxiv API 2010 - 2018: **209970**
-- The ratio of neural net or machine learning papers in astro-ph: **0.00218**
-- How many of them are about galaxy: **0.249**
+- Number of total astro-ph papers from arxiv API 2010 - 2018: **234975**
+- The ratio of neural net or machine learning papers in astro-ph: **0.00258**
+- How many of them are about galaxy: **0.224**
 
 ## Most Mentioned Categories in Astro-ph (limited to neural net and machine learning related papers)
 
