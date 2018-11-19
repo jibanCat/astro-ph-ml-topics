@@ -33,15 +33,21 @@ Using arxiv API to analysis neural network paper in astro-ph
 
 ## Topic Modeling on Astro-ph's Abstracts 
 
-A naive with maximum 10 topics, 
+A naive with maximum 15 topics, 
 
-- Topic 0 : radio, sources, optical, infrared, observations, source, jet, emission, objects, telescope, images, survey, band, near, detected
-- Topic 1 : data, model, using, models, solar, results, analysis, method, parameters, new, used, light, based, time, present
-- Topic 2 : field, magnetic, matter, dark, energy, model, scale, cosmological, density, non, large, fields, universe, models, simulations
-- Topic 3 : line, emission, lines, alpha, region, velocity, molecular, km, spectra, absorption, regions, high, ii, temperature, observed
-- Topic 4 : stars, cluster, clusters, stellar, ngc, dwarf, metallicity, star, galactic, galaxy, abundance, fe, halo, distance, population
-- Topic 5 : ray, energy, gamma, emission, flux, 10, spectrum, high, kev, source, spectral, power, observed, thermal, cosmic
-- Topic 6 : black, accretion, hole, rm, period, star, neutron, wind, binary, rate, sim, mass, frequency, 10, state
-- Topic 7 : galaxies, galaxy, redshift, sample, luminosity, survey, function, correlation, relation, 10, type, evolution, high, mass, local
-- Topic 8 : mass, stellar, stars, masses, star, systems, 10, planet, planets, massive, evolution, low, core, simulations, models
-- Topic 9 : gas, formation, star, disk, dust, agn, galaxy, rate, galactic, regions, central, stellar, accretion, model, infrared.
+
+- Topic 0 : stars, star, mass, stellar, planet, planets, neutron, binary, systems, evolution, massive, planetary, solar, masses, type
+- Topic 1 : radio, sources, 10, source, sim, emission, observations, flux, events, sn, detected, galactic, supernova, detection, times
+- Topic 2 : ray, black, hole, jet, emission, kev, agn, accretion, luminosity, pulsar, holes, source, variability, spectral, flux
+- Topic 3 : matter, dark, cosmological, energy, universe, gravitational, model, gravity, scalar, equation, lensing, models, lambda, theory, density
+- Topic 4 : solar, results, non, time, neutrino, method, signal, effects, order, simulations, using, different, new, noise, study
+- Topic 5 : data, model, models, parameters, spectrum, power, parameter, using, analysis, measurements, scale, temperature, constraints, cmb, observations
+- Topic 6 : gas, disk, dust, formation, star, molecular, regions, region, cloud, disks, polarization, emission, structure, observations, interstellar
+- Topic 7 : line, emission, lines, spectra, alpha, absorption, fe, high, abundance, clouds, abundances, ii, observed, hi, cm
+- Topic 8 : galaxies, galaxy, cluster, clusters, formation, star, mass, redshift, stellar, luminosity, sample, population, evolution, ngc, 10
+- Topic 9 : energy, gamma, ray, particles, shock, high, thermal, cosmic, rays, emission, plasma, radiation, particle, electron, model
+- Topic 10 : field, magnetic, fields, rm, scale, pm, inflation, large, flux, non, small, structure, strong, scales, evolution
+- Topic 11 : velocity, accretion, al, et, disc, radial, rotation, km, rate, flow, wind, rates, velocities, core, angular
+- Topic 12 : data, survey, optical, light, infrared, telescope, band, sample, using, present, observations, new, photometric, objects, imaging
+- Topic 13 : mass, density, distribution, halo, function, simulations, surface, size, model, body, profile, correlation, profiles, radius, observed
+- Topic 14 : period, dwarf, phase, spin, mode, orbital, mu, white, dwarfs, frequency, time, short, modes, amplitude, long
