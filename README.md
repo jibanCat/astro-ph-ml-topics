@@ -53,3 +53,16 @@ A naive with maximum 15 topics,
 - (Survey) Topic 12 : data, survey, optical, light, infrared, telescope, band, sample, using, present, observations, new, photometric, objects, imaging
 - (?) Topic 13 : mass, density, distribution, halo, function, simulations, surface, size, model, body, profile, correlation, profiles, radius, observed
 - (?) Topic 14 : period, dwarf, phase, spin, mode, orbital, mu, white, dwarfs, frequency, time, short, modes, amplitude, long
+
+## Number of Submissions based on Dates
+
+Inspired by https://academia.stackexchange.com/questions/50140/is-there-a-correlation-between-submission-date-on-arxiv-and-citations 
+
+- Mean value of monthly arxiv submission ![arxiv_monthly](images/arxiv_monthly.png)
+- Mean value of monthly astro-ph submission ![astro-ph_monthly](images/astro-ph_monthly.png)
+- Comparison : they fit! ![arxiv_astro-ph_monthly](images/arxiv_astro-ph_monthly.png)
+  - Oct is the most productive month, I wonder why ...
+- Astro-ph days in a month : ![astro-ph_daysinmonth](images/astro-ph_daysinmonth.png)
+  - not every months have 31s, so it's reasonable.
+- Astr-ph days in a week : ![astro-ph_daysinweek](images/astro-ph_daysinweek.png)
+  - Seems to be quite uniform for me. Except not so many submissions in the weekends. Probably due to some arxiv's submission rules.
