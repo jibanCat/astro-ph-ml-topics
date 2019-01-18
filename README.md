@@ -30,13 +30,13 @@ Using arxiv API to analysis neural network paper in astro-ph
 
 ![2grams](images/2grams.png)
 
-- 3 grams: This one is surprising. Number of CNN count is comparable to the number count of neural netowork. It may imply most of neural network application in astronomy is using CNN.
+- 3 grams: This one is surprising. Number of CNN count is comparable to the number count of neural network. It may imply most of neural network application in astronomy is using CNN.
 
 ![3grams](images/3grams.png)
 
-## Topic Modeling on Astro-ph's Abstracts 
+## Topic Modeling on Astro-ph's Abstracts
 
-A naive with maximum 15 topics, 
+A naive with maximum 15 topics,
 
 - (Stars) Topic 0 : stars, star, mass, stellar, planet, planets, neutron, binary, systems, evolution, massive, planetary, solar, masses, type
 - (Supernovae) Topic 1 : radio, sources, 10, source, sim, emission, observations, flux, events, sn, detected, galactic, supernova, detection, times
@@ -58,11 +58,11 @@ A naive with maximum 15 topics,
 
 Inspired by https://academia.stackexchange.com/questions/50140/is-there-a-correlation-between-submission-date-on-arxiv-and-citations 
 
-- Mean value of monthly arxiv submission ![arxiv_monthly](images/arxiv_monthly.png)
-- Mean value of monthly astro-ph submission ![astro-ph_monthly](images/astro-ph_monthly.png)
+- Count of monthly arxiv submission ![arxiv_monthly](images/arxiv_monthly.png)
+- Count of monthly astro-ph submission ![astro-ph_monthly](images/astro-ph_monthly.png)
 - Comparison : they fit! ![arxiv_astro-ph_monthly](images/arxiv_astro-ph_monthly.png)
   - Oct is the most productive month, I wonder why ...
 - Astro-ph days in a month : ![astro-ph_daysinmonth](images/astro-ph_daysinmonth.png)
   - not every months have 31s, so it's reasonable.
-- Astr-ph days in a week : ![astro-ph_daysinweek](images/astro-ph_daysinweek.png)
+- Astro-ph days in a week : ![astro-ph_daysinweek](images/astro-ph_daysinweek.png)
   - Seems to be quite uniform for me. Except not so many submissions in the weekends. Probably due to some arxiv's submission rules.
